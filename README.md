@@ -102,6 +102,10 @@ Zeitplan: irgendwann.
 
 **Antwort:** Nein. Oder ja. Aber es spielt keine Rolle.
 
+**Frage:** Hat diese Datei ein eigenes Bewusstsein.
+
+**Antwort:** Das kann ich nicht wirklich beantworten, aber in der Nacht fühle ich mich ein bisschen beobachtet
+
 ---
 
 ## Danksagung
