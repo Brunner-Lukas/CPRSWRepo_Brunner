@@ -102,10 +102,6 @@ Zeitplan: irgendwann.
 
 **Antwort:** Nein. Oder ja. Aber es spielt keine Rolle.
 
-**Frage:** Hat diese Datei ein eigenes Bewusstsein.
-
-**Antwort:** Das kann ich nicht wirklich beantworten, aber in der Nacht fühle ich mich ein bisschen beobachtet
-
 ---
 
 ## Danksagung
@@ -135,3 +131,157 @@ Du kannst diese Datei jetzt schließen.
 Oder noch einen Moment bleiben.
 
 Sie läuft nicht weg.
+
+---
+
+## Zusätzlicher Abschnitt, der völlig optional ist
+
+Ab hier beginnt der Teil des READMEs, den niemand verlangt hat, der aber trotzdem höflich da ist. Er steht nicht im Weg, winkt nicht und räuspert sich nur gelegentlich, um sicherzugehen, dass er noch existiert.
+
+Dieser Abschnitt fügt nichts hinzu und nimmt nichts weg. Er ist wie ein langer Flur mit guter Akustik, in dem Schritte bedeutungsvoller klingen, als sie eigentlich sind.
+
+---
+
+## Gedanken, die man beim Lesen haben könnte
+
+* „Interessant.“
+* „Aha.“
+* „Ich scrolle nur kurz.“
+* „Warum ist das immer noch nicht zu Ende?“
+
+All diese Gedanken sind korrekt und ausdrücklich erlaubt.
+
+---
+
+## Technische Tiefe
+
+Technisch gesehen besteht dieser Text aus Zeichen, die in einer bestimmten Reihenfolge angeordnet sind. Entfernt man diese Reihenfolge, bleibt immer noch etwas übrig, nur eben ungeordnet.
+
+Das README respektiert Ordnung, besteht aber nicht darauf.
+
+---
+
+## Wartung und Pflege
+
+Dieses Dokument benötigt keine Updates.
+
+Sollte es dennoch erweitert werden, empfiehlt es sich, einfach weiterzuschreiben, ohne zurückzulesen. Das erhält die innere Konsistenz auf einem angenehm undefinierten Niveau.
+
+---
+
+## Zwischenüberschrift zur Orientierung
+
+Falls du dachtest, du hättest dich verlaufen: hast du nicht.
+
+Falls du dachtest, du wärst fast am Ende: auch das nicht.
+
+---
+
+## Weitere Informationen
+
+Es gibt keine weiteren Informationen.
+
+Dieser Abschnitt dient lediglich dazu, das Gegenteil zu behaupten.
+
+---
+
+## Metakommentar
+
+Ja, das hier ist immer noch das README.
+
+Nein, es wird nicht plötzlich sinnvoll.
+
+Und ja, genau das ist der Punkt.
+
+---
+
+## Sanfter Ausklang
+
+Irgendwann hört jeder Text auf. Nicht aus Notwendigkeit, sondern aus Höflichkeit.
+
+Dieser hier ist noch nicht so weit.
+
+Er bleibt noch ein bisschen.
+
+Ganz ruhig.
+
+---
+
+## Fortsetzung ohne besonderen Anlass
+
+Manchmal geht ein Text einfach weiter, weil er kann. Nicht aus Trotz, nicht aus Ehrgeiz, sondern aus einer leisen Neugier heraus, wie viel Platz zwischen zwei Gedanken eigentlich existiert.
+
+Dieser Abschnitt ist genau dafür da: um Platz zu sein.
+
+---
+
+## Abschnitt über Zeit
+
+Zeit verhält sich in READMEs anders als draußen. Sekunden dehnen sich zwischen Absätzen, Minuten verschwinden beim Scrollen, und irgendwann ist man sich nicht mehr sicher, wie lange man schon hier ist.
+
+Das ist normal.
+
+---
+
+## Dinge, die dieses README nicht ist
+
+* kein Handbuch
+* keine Anleitung
+* keine Offenbarung
+* kein letztes Wort
+
+Es ist auch kein erstes Wort. Eher etwas Dazwischenliegendes.
+
+---
+
+## Platzhalter für Bedeutung
+
+[Hier könnte ein wichtiger Gedanke stehen.]
+
+Er tut es aber nicht.
+
+Der Platz bleibt trotzdem reserviert.
+
+---
+
+## Wiederholung zur Beruhigung
+
+Alles ist in Ordnung.
+
+Der Text macht, was er soll.
+
+Du liest, was du liest.
+
+Mehr passiert gerade nicht.
+
+---
+
+## Sehr langer Absatz, der absichtlich ruhig ist
+
+Dieser Absatz ist lang, ohne laut zu sein. Er reiht Wörter aneinander, nicht um zu überzeugen oder zu erklären, sondern um ein gleichmäßiges Geräusch zu erzeugen, wie Regen gegen ein Fenster oder Schritte auf einem Flur, den man gut kennt. Man könnte hier aussteigen, aber man kann auch einfach noch ein paar Zeilen bleiben und feststellen, dass Länge allein manchmal schon Wirkung genug ist.
+
+---
+
+## Orientierungspunkt
+
+Falls du zwischendurch hochgescrollt hast, um zu prüfen, wie lang das alles noch wird: willkommen zurück.
+
+Ja, es geht weiter.
+
+---
+
+## Beinahe-Schluss
+
+Das hier fühlt sich an wie ein Ende.
+
+Ist es aber nicht.
+
+Noch nicht.
+
+---
+
+## Nachsatz zum Nachsatz
+
+Manche Texte verabschieden sich mehrfach, nur um sicherzugehen, dass sie wirklich vermisst werden.
+
+Dieser hier übt noch.
