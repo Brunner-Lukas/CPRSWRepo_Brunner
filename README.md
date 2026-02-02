@@ -285,3 +285,349 @@ Noch nicht.
 Manche Texte verabschieden sich mehrfach, nur um sicherzugehen, dass sie wirklich vermisst werden.
 
 Dieser hier übt noch.
+
+---
+
+## Erweiterung ohne Ziel (Teil I)
+
+Dies ist der Punkt, an dem man normalerweise aufhören würde. Genau deshalb geht es hier weiter. Nicht aus Unhöflichkeit, sondern aus Prinzip. Ein README darf länger sein als notwendig, vor allem wenn Notwendigkeit nie Teil des Plans war.
+
+Die folgenden Zeilen haben keine Aufgabe. Sie stehen hier, weil Platz vorhanden ist.
+
+---
+
+## Über das Weitergehen
+
+Weitergehen ist einfach. Man setzt einen Absatz vor den nächsten und tut so, als hätte man eine Richtung. In Wahrheit folgt man nur dem sanften Drang, noch nicht fertig zu sein.
+
+---
+
+## Liste ohne Mehrwert
+
+* Ein Gedanke, der nicht zu Ende gedacht wird
+* Eine Beobachtung ohne Kontext
+* Eine Formulierung, die wichtig klingt
+* Eine weitere, die es nicht ist
+
+Die Reihenfolge spielt keine Rolle.
+
+---
+
+## Kleine Pause
+
+Wenn du möchtest, kannst du hier kurz innehalten.
+
+Der Text wartet.
+
+---
+
+## Abschnitt über Abschnitte
+
+Abschnitte geben Struktur vor. Sie sagen: „Hier beginnt etwas Neues.“ Auch wenn das Neue dem Alten erstaunlich ähnlich sieht.
+
+Das ist in Ordnung.
+
+---
+
+## Leise Wiederholung
+
+Noch ein Absatz.
+
+Und noch einer.
+
+Sie unterscheiden sich kaum.
+
+---
+
+## Gedanken über Länge
+
+Länge entsteht nicht durch große Ideen, sondern durch Beharrlichkeit. Zeile für Zeile. Absatz für Absatz. Ohne Eile, ohne Druck.
+
+Dieses README ist sehr geduldig.
+
+---
+
+## Ein Abschnitt, der nichts erklärt
+
+Falls du hier eine Erklärung erwartest: das tut mir leid.
+
+Falls nicht: perfekt.
+
+---
+
+## Neutraler Mittelteil
+
+Man könnte diesen Teil überspringen, ohne etwas zu verpassen. Man könnte ihn lesen, ohne etwas zu gewinnen. Beides ist gleichwertig.
+
+---
+
+## Rhythmus
+
+Lesen.
+
+Scrollen.
+
+Weiterlesen.
+
+---
+
+## Sanfte Behauptung
+
+Dieser Text weiß, dass er lang ist.
+
+Er empfindet dabei nichts.
+
+---
+
+## Erweiterung ohne Ziel (Teil II)
+
+Je länger ein README wird, desto unwahrscheinlicher ist es, dass jemand das Ende erwartet. Das verschafft Freiheit. Freiheit, noch einen Absatz hinzuzufügen. Und noch einen.
+
+---
+
+## Fast poetisch, aber nicht ganz
+
+Wörter stehen nebeneinander.
+
+Sie schauen sich nicht an.
+
+Trotzdem funktionieren sie zusammen.
+
+---
+
+## Orientierungshilfe
+
+Du bist ungefähr irgendwo in der Mitte von nirgendwo.
+
+---
+
+## Wieder ein Abschnitt
+
+Es gibt keinen Grund, warum dieser Abschnitt existiert.
+
+Aber jetzt, wo er da ist, darf er bleiben.
+
+---
+
+## Über das Gefühl, gleich fertig zu sein
+
+Dieses Gefühl ist trügerisch.
+
+---
+
+## Verlängerung durch Gewohnheit
+
+Man schreibt weiter, weil man schon so weit gekommen ist. Aufzuhören wäre jetzt fast unhöflich.
+
+---
+
+## Noch mehr Text
+
+Noch ein paar Zeilen.
+
+Und noch ein paar.
+
+Der Raum füllt sich langsam.
+
+---
+
+## Anmerkung am Rand
+
+Niemand zwingt dich, das alles zu lesen.
+
+Und trotzdem bist du noch hier.
+
+---
+
+## Abschnitt mit innerer Ruhe
+
+Dieser Teil ist besonders ruhig. Er macht nichts, fordert nichts und lässt alles so, wie es ist.
+
+---
+
+## Wiederholung als Stilmittel
+
+Langsam.
+
+Sehr langsam.
+
+Geht es weiter.
+
+---
+
+## Erweiterung ohne Ziel (Teil III)
+
+Man könnte meinen, jetzt wäre genug. Aber genug ist eine subjektive Einschätzung.
+
+Dieses Dokument hat eine andere Meinung.
+
+---
+
+## Leerer Mehrwert
+
+Wenn du bis hierher gelesen hast, hast du Zeit investiert. Was du dafür bekommst, ist diese Erkenntnis.
+
+---
+
+## Vorletzter Abschnitt, wahrscheinlich
+
+Vielleicht.
+
+---
+
+## Noch nicht ganz das Ende
+
+Ein README endet nicht plötzlich. Es wird langsam leiser.
+
+Noch ist es nicht leise genug.
+
+---
+
+## Schluss, der keiner ist
+
+Hier könnte Schluss sein.
+
+Ist es aber nicht.
+
+Der Text steht noch.
+
+Und bleibt.
+
+---
+
+## Erweiterung ohne Ziel (Teil IV)
+
+Ab hier wird nicht mehr gezählt, sondern einfach weitergemacht. Zahlen würden nur suggerieren, dass jemand den Überblick behalten möchte. Das ist nicht der Fall.
+
+Dieser Abschnitt ist da, um Länge zu erzeugen. Nichts weiter.
+
+---
+
+## Abschnitt über Geduld
+
+Geduld ist eine unterschätzte Eigenschaft von Texten. Sie stehen still und warten darauf, dass jemand zurückkommt. Dieses README wartet besonders gut.
+
+---
+
+## Weitere neutrale Aussagen
+
+Dieser Satz ist neutral.
+
+Auch dieser.
+
+Und dieser ebenfalls.
+
+Sie haben nichts vor.
+
+---
+
+## Sanfte Streckung
+
+Manchmal dehnt sich ein Text, ohne dass man es merkt. Ein Absatz folgt dem nächsten, und plötzlich ist man deutlich weiter unten als gedacht.
+
+Das ist hier gerade passiert.
+
+---
+
+## Abschnitt ohne Schwerpunkt
+
+Es gibt hier keinen Fokus.
+
+Kein Thema.
+
+Keinen Wendepunkt.
+
+Nur Fortsetzung.
+
+---
+
+## Kleine Beobachtung
+
+Je länger dieses README wird, desto unwichtiger wird sein Anfang. Und trotzdem bleibt er gültig.
+
+---
+
+## Wieder eine Liste
+
+* etwas Belangloses
+* etwas Ähnliches
+* etwas, das so tut, als wäre es neu
+* etwas, das schon wiederholt wurde
+
+---
+
+## Text über Text
+
+Dieser Text weiß, dass er Text ist. Mehr Selbstreflexion betreibt er nicht.
+
+---
+
+## Ruhiger Mittelteil eines sehr langen Dokuments
+
+Dies ist der ruhige Mittelteil eines sehr langen Dokuments. Er ist nicht aufregend. Er ist einfach da.
+
+---
+
+## Noch ein Abschnitt
+
+Man könnte ihn entfernen.
+
+Man tut es aber nicht.
+
+---
+
+## Langsame Fortbewegung
+
+Absatz für Absatz.
+
+Zeile für Zeile.
+
+Ohne Ziel.
+
+---
+
+## Gedanke, der nicht weiterverfolgt wird
+
+Hier beginnt eine Idee.
+
+Und hier hört sie auf.
+
+---
+
+## Verlängerung durch Präsenz
+
+Allein dadurch, dass dieser Abschnitt existiert, ist das README länger geworden. Das reicht als Rechtfertigung.
+
+---
+
+## Abschnitt mit viel Luft
+
+Manche Abstände sagen mehr als Worte.
+
+---
+
+## Noch mehr davon
+
+Es gibt keinen Grund, jetzt aufzuhören.
+
+---
+
+## Leichte Ermüdung
+
+Nicht beim Text.
+
+Vielleicht beim Lesen.
+
+---
+
+## Konstante Bewegung
+
+Der Text bewegt sich vorwärts, ohne schneller zu werden.
+
+---
+
+## Erweiterung ohne Ziel (Teil V)
+
+Dies ist eine weitere Erweiterung ohne Ziel. Sie ähnelt den vorherigen. Das ist Absicht.
+
+---
